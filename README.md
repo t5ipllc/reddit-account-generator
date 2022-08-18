@@ -1,6 +1,6 @@
 # reddit-account-generator
 
-This script can be used to create accounts on reddit automatically.
+A simple python script can be used to create reddit accounts.
 
 ## Usuage
 ```

@@ -2,8 +2,8 @@
 
 This script can be used to create accounts on reddit automatically.
 
-##Usuage
+## Usuage
 'python main.py'
 
-#Note
+# Note
 This script is not threaded.

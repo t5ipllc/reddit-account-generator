@@ -1,6 +1,6 @@
 # reddit-account-generator
 
-A simple python script which can be used to create reddit accounts.
+reddit-account-generator is a simple script written in python3 that helps you to create reddit accounts automatically. It uses selenium_stealth so it undetectable. For the username name creation it directly requests reddit for suggested usernames and selects them. If reddit servers deny the request then it will randomly create a username. It also verifies the email and saves the account info in a text file.
 
 ## Usuage
 ```

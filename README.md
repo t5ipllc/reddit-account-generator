@@ -4,7 +4,7 @@ A simple python script which can be used to create reddit accounts.
 
 ## Usuage
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 python main.py
 ```
 
